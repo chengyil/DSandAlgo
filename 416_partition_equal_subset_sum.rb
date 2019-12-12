@@ -1,3 +1,6 @@
+# https://leetcode.com/problems/partition-equal-subset-sum/
+# https://www.youtube.com/watch?v=nLmhmB6NzcM
+# https://www.youtube.com/watch?v=zRza99HPvkQ
 # @param {Integer[]} nums
 # @return {Boolean}
 def can_partition(nums)
